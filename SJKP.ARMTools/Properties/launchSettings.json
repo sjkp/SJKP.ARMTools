@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SJKP.ARMTools": {
+      "commandName": "Project",
+      "commandLineArgs": "make-parameter-file --template c:\\Projects\\azure-arm-static-webpage\\azuredeploy.json --outfile params.json"
+    }
+  }
+}
